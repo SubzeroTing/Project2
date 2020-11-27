@@ -3,3 +3,5 @@ I am File1
 Line1
 
 master Line2
+
+master Line3
