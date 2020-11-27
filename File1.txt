@@ -1,3 +1,5 @@
 I am File1
 
 Line1
+
+master Line2
